@@ -1,0 +1,5 @@
+
+
+
+public enum EtatJeu {RESULTAT_PARTIEL,GANGNANT,CHANGEMENT_PARTIE};
+
